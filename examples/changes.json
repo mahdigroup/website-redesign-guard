@@ -1,0 +1,8 @@
+{
+  "paths": {
+    "/old-services/": "/services/"
+  },
+  "retired": [
+    "/retired/"
+  ]
+}

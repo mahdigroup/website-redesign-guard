@@ -1,0 +1,9 @@
+node_modules/
+reports/
+*.tgz
+.env
+.env.*
+coverage/
+.DS_Store
+Thumbs.db
+test-output/

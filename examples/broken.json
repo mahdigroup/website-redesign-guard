@@ -1,0 +1,396 @@
+{
+  "version": 1,
+  "createdAt": "2026-10-30T10:00:00.000Z",
+  "base": "https://after.brightfield.example/",
+  "engine": "Website Redesign Guard 1.0.0",
+  "robots": {
+    "available": true,
+    "crawlerBlocked": false,
+    "googlebotBlocked": false
+  },
+  "pages": [
+    {
+      "route": "/",
+      "url": "https://after.brightfield.example/",
+      "status": 200,
+      "finalURL": "https://after.brightfield.example/",
+      "redirects": [],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [
+          "Brightfield Studio"
+        ],
+        "descriptions": [
+          "A useful page about the Brightfield Studio website."
+        ],
+        "canonicals": [
+          "https://after.brightfield.example/"
+        ],
+        "robots": [],
+        "h1": [
+          "Brightfield Studio"
+        ],
+        "links": [
+          "https://after.brightfield.example/",
+          "https://after.brightfield.example/about/",
+          "https://after.brightfield.example/contact/",
+          "https://after.brightfield.example/old-services/",
+          "https://after.brightfield.example/retired/",
+          "https://after.brightfield.example/lost/",
+          "https://after.brightfield.example/chain/",
+          "https://after.brightfield.example/loop/"
+        ],
+        "images": [
+          "https://after.brightfield.example/image.svg",
+          "https://after.brightfield.example/broken.svg",
+          "https://after.brightfield.example/html-image.svg"
+        ],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 206,
+        "text": "Brightfield StudioA considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. //about//contact//old-services//retired//lost//chain//loop/"
+      }
+    },
+    {
+      "route": "/about/",
+      "url": "https://after.brightfield.example/about/",
+      "status": 200,
+      "finalURL": "https://after.brightfield.example/about/",
+      "redirects": [],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [
+          "About the studio",
+          "Duplicate SEO title"
+        ],
+        "descriptions": [
+          "A useful page about the Brightfield Studio website."
+        ],
+        "canonicals": [
+          "https://staging.wrong.example/about/"
+        ],
+        "robots": [
+          "noindex"
+        ],
+        "h1": [],
+        "links": [
+          "https://after.brightfield.example/",
+          "https://after.brightfield.example/about/",
+          "https://after.brightfield.example/contact/",
+          "https://after.brightfield.example/old-services/",
+          "https://after.brightfield.example/retired/",
+          "https://after.brightfield.example/lost/",
+          "https://after.brightfield.example/chain/",
+          "https://after.brightfield.example/loop/"
+        ],
+        "images": [
+          "https://after.brightfield.example/image.svg"
+        ],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 4,
+        "text": "Loading the new page…//about//contact//old-services//retired//lost//chain//loop/"
+      }
+    },
+    {
+      "route": "/contact/",
+      "url": "https://after.brightfield.example/contact/",
+      "status": 200,
+      "finalURL": "https://after.brightfield.example/contact/",
+      "redirects": [],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [
+          "Contact Brightfield"
+        ],
+        "descriptions": [
+          "A useful page about the Brightfield Studio website."
+        ],
+        "canonicals": [
+          "https://after.brightfield.example/contact/"
+        ],
+        "robots": [],
+        "h1": [
+          "Contact Brightfield"
+        ],
+        "links": [
+          "https://after.brightfield.example/",
+          "https://after.brightfield.example/about/",
+          "https://after.brightfield.example/contact/",
+          "https://after.brightfield.example/old-services/",
+          "https://after.brightfield.example/retired/",
+          "https://after.brightfield.example/lost/",
+          "https://after.brightfield.example/chain/",
+          "https://after.brightfield.example/loop/"
+        ],
+        "images": [
+          "https://after.brightfield.example/image.svg"
+        ],
+        "phones": [
+          "+441111111111"
+        ],
+        "emails": [
+          "hello@brightfield.example"
+        ],
+        "forms": [],
+        "wordCount": 206,
+        "text": "Contact BrightfieldA considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. //about//contact//old-services//retired//lost//chain//loop/CallEmail"
+      }
+    },
+    {
+      "route": "/old-services/",
+      "url": "https://after.brightfield.example/old-services/",
+      "status": 404,
+      "finalURL": "https://after.brightfield.example/old-services/",
+      "redirects": [],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [],
+        "descriptions": [],
+        "canonicals": [],
+        "robots": [],
+        "h1": [],
+        "links": [],
+        "images": [],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 0,
+        "text": ""
+      }
+    },
+    {
+      "route": "/retired/",
+      "url": "https://after.brightfield.example/retired/",
+      "status": 410,
+      "finalURL": "https://after.brightfield.example/retired/",
+      "redirects": [],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [],
+        "descriptions": [],
+        "canonicals": [],
+        "robots": [],
+        "h1": [],
+        "links": [],
+        "images": [],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 0,
+        "text": ""
+      }
+    },
+    {
+      "route": "/lost/",
+      "url": "https://after.brightfield.example/lost/",
+      "status": 200,
+      "finalURL": "https://after.brightfield.example/",
+      "redirects": [
+        {
+          "url": "https://after.brightfield.example/lost/",
+          "status": 301,
+          "to": "https://after.brightfield.example/"
+        }
+      ],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [
+          "Brightfield Studio"
+        ],
+        "descriptions": [
+          "A useful page about the Brightfield Studio website."
+        ],
+        "canonicals": [
+          "https://after.brightfield.example/"
+        ],
+        "robots": [],
+        "h1": [
+          "Brightfield Studio"
+        ],
+        "links": [
+          "https://after.brightfield.example/",
+          "https://after.brightfield.example/about/",
+          "https://after.brightfield.example/contact/",
+          "https://after.brightfield.example/old-services/",
+          "https://after.brightfield.example/retired/",
+          "https://after.brightfield.example/lost/",
+          "https://after.brightfield.example/chain/",
+          "https://after.brightfield.example/loop/"
+        ],
+        "images": [
+          "https://after.brightfield.example/image.svg",
+          "https://after.brightfield.example/broken.svg",
+          "https://after.brightfield.example/html-image.svg"
+        ],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 206,
+        "text": "Brightfield StudioA considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. //about//contact//old-services//retired//lost//chain//loop/"
+      }
+    },
+    {
+      "route": "/chain/",
+      "url": "https://after.brightfield.example/chain/",
+      "status": 200,
+      "finalURL": "https://after.brightfield.example/about/",
+      "redirects": [
+        {
+          "url": "https://after.brightfield.example/chain/",
+          "status": 302,
+          "to": "https://after.brightfield.example/hop/"
+        },
+        {
+          "url": "https://after.brightfield.example/hop/",
+          "status": 301,
+          "to": "https://after.brightfield.example/about/"
+        }
+      ],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [
+          "About the studio",
+          "Duplicate SEO title"
+        ],
+        "descriptions": [
+          "A useful page about the Brightfield Studio website."
+        ],
+        "canonicals": [
+          "https://staging.wrong.example/about/"
+        ],
+        "robots": [
+          "noindex"
+        ],
+        "h1": [],
+        "links": [
+          "https://after.brightfield.example/",
+          "https://after.brightfield.example/about/",
+          "https://after.brightfield.example/contact/",
+          "https://after.brightfield.example/old-services/",
+          "https://after.brightfield.example/retired/",
+          "https://after.brightfield.example/lost/",
+          "https://after.brightfield.example/chain/",
+          "https://after.brightfield.example/loop/"
+        ],
+        "images": [
+          "https://after.brightfield.example/image.svg"
+        ],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 4,
+        "text": "Loading the new page…//about//contact//old-services//retired//lost//chain//loop/"
+      }
+    },
+    {
+      "route": "/loop/",
+      "url": "https://after.brightfield.example/loop/",
+      "status": 0,
+      "finalURL": "https://after.brightfield.example/loop/",
+      "redirects": [],
+      "error": "Redirect loop detected.",
+      "data": {
+        "titles": [],
+        "descriptions": [],
+        "canonicals": [],
+        "robots": [],
+        "h1": [],
+        "links": [],
+        "images": [],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 0,
+        "text": ""
+      }
+    },
+    {
+      "route": "/services/",
+      "url": "https://after.brightfield.example/services/",
+      "status": 200,
+      "finalURL": "https://after.brightfield.example/services/",
+      "redirects": [],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [
+          "Our services"
+        ],
+        "descriptions": [
+          "A useful page about the Brightfield Studio website."
+        ],
+        "canonicals": [
+          "https://after.brightfield.example/services/"
+        ],
+        "robots": [],
+        "h1": [
+          "Our services"
+        ],
+        "links": [
+          "https://after.brightfield.example/",
+          "https://after.brightfield.example/about/",
+          "https://after.brightfield.example/contact/",
+          "https://after.brightfield.example/old-services/",
+          "https://after.brightfield.example/retired/",
+          "https://after.brightfield.example/lost/",
+          "https://after.brightfield.example/chain/",
+          "https://after.brightfield.example/loop/"
+        ],
+        "images": [
+          "https://after.brightfield.example/image.svg"
+        ],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 206,
+        "text": "Our servicesA considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. //about//contact//old-services//retired//lost//chain//loop/"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://after.brightfield.example/image.svg",
+      "status": 200,
+      "finalURL": "https://after.brightfield.example/image.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://after.brightfield.example/broken.svg",
+      "status": 404,
+      "finalURL": "https://after.brightfield.example/broken.svg",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://after.brightfield.example/html-image.svg",
+      "status": 200,
+      "finalURL": "https://after.brightfield.example/html-image.svg",
+      "contentType": "text/html"
+    }
+  ],
+  "coverage": {
+    "maxPages": 30,
+    "maxAssets": 40,
+    "requests": 19,
+    "pageLimitReached": false,
+    "assetLimitReached": false,
+    "robotsChecked": true,
+    "sitemapsChecked": 3,
+    "skipped": [
+      {
+        "route": "/blocked/",
+        "reason": "robots.txt restriction"
+      }
+    ],
+    "warnings": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "tool": "Website Redesign Guard",
+  "createdAt": "2026-10-30T10:00:00.000Z",
+  "before": "https://before.brightfield.example/",
+  "after": "https://after.brightfield.example/",
+  "environment": "production",
+  "summary": {
+    "errors": 0,
+    "warnings": 0,
+    "info": 1,
+    "approved": 1,
+    "beforePages": 8,
+    "afterPages": 9
+  },
+  "findings": [
+    {
+      "id": "finding-1",
+      "severity": "info",
+      "code": "approved-retirement",
+      "route": "/retired/",
+      "title": "Intentional page retirement confirmed.",
+      "evidence": "The old route returns HTTP 410.",
+      "fix": "Keep the removal documented and update internal links.",
+      "approved": false
+    }
+  ],
+  "newPages": [],
+  "coverage": {
+    "before": {
+      "maxPages": 30,
+      "maxAssets": 40,
+      "requests": 13,
+      "pageLimitReached": false,
+      "assetLimitReached": false,
+      "robotsChecked": true,
+      "sitemapsChecked": 3,
+      "skipped": [
+        {
+          "route": "/blocked/",
+          "reason": "robots.txt restriction"
+        }
+      ],
+      "warnings": []
+    },
+    "after": {
+      "maxPages": 30,
+      "maxAssets": 40,
+      "requests": 15,
+      "pageLimitReached": false,
+      "assetLimitReached": false,
+      "robotsChecked": true,
+      "sitemapsChecked": 3,
+      "skipped": [
+        {
+          "route": "/blocked/",
+          "reason": "robots.txt restriction"
+        }
+      ],
+      "warnings": []
+    }
+  },
+  "limits": [
+    "Read-only HTTP checks; no forms submitted or emails verified.",
+    "JavaScript is not executed by the CLI. HTML-only forms and content may need manual review.",
+    "Only fetched internal links and same-origin image URLs are checked.",
+    "A clean report is not a ranking, accessibility or delivery guarantee."
+  ],
+  "sample": true
+}

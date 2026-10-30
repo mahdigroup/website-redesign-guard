@@ -1,0 +1,398 @@
+{
+  "version": 1,
+  "createdAt": "2026-10-30T10:00:00.000Z",
+  "base": "https://before.brightfield.example/",
+  "engine": "Website Redesign Guard 1.0.0",
+  "robots": {
+    "available": true,
+    "crawlerBlocked": false,
+    "googlebotBlocked": false
+  },
+  "pages": [
+    {
+      "route": "/",
+      "url": "https://before.brightfield.example/",
+      "status": 200,
+      "finalURL": "https://before.brightfield.example/",
+      "redirects": [],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [
+          "Brightfield Studio"
+        ],
+        "descriptions": [
+          "A useful page about the Brightfield Studio website."
+        ],
+        "canonicals": [
+          "https://before.brightfield.example/"
+        ],
+        "robots": [],
+        "h1": [
+          "Brightfield Studio"
+        ],
+        "links": [
+          "https://before.brightfield.example/",
+          "https://before.brightfield.example/about/",
+          "https://before.brightfield.example/contact/",
+          "https://before.brightfield.example/old-services/",
+          "https://before.brightfield.example/retired/",
+          "https://before.brightfield.example/lost/",
+          "https://before.brightfield.example/chain/",
+          "https://before.brightfield.example/loop/"
+        ],
+        "images": [
+          "https://before.brightfield.example/image.svg"
+        ],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 206,
+        "text": "Brightfield StudioA considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. //about//contact//old-services//retired//lost//chain//loop/"
+      }
+    },
+    {
+      "route": "/about/",
+      "url": "https://before.brightfield.example/about/",
+      "status": 200,
+      "finalURL": "https://before.brightfield.example/about/",
+      "redirects": [],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [
+          "About the studio"
+        ],
+        "descriptions": [
+          "A useful page about the Brightfield Studio website."
+        ],
+        "canonicals": [
+          "https://before.brightfield.example/about/"
+        ],
+        "robots": [],
+        "h1": [
+          "About the studio"
+        ],
+        "links": [
+          "https://before.brightfield.example/",
+          "https://before.brightfield.example/about/",
+          "https://before.brightfield.example/contact/",
+          "https://before.brightfield.example/old-services/",
+          "https://before.brightfield.example/retired/",
+          "https://before.brightfield.example/lost/",
+          "https://before.brightfield.example/chain/",
+          "https://before.brightfield.example/loop/"
+        ],
+        "images": [
+          "https://before.brightfield.example/image.svg"
+        ],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 207,
+        "text": "About the studioA considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. //about//contact//old-services//retired//lost//chain//loop/"
+      }
+    },
+    {
+      "route": "/contact/",
+      "url": "https://before.brightfield.example/contact/",
+      "status": 200,
+      "finalURL": "https://before.brightfield.example/contact/",
+      "redirects": [],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [
+          "Contact Brightfield"
+        ],
+        "descriptions": [
+          "A useful page about the Brightfield Studio website."
+        ],
+        "canonicals": [
+          "https://before.brightfield.example/contact/"
+        ],
+        "robots": [],
+        "h1": [
+          "Contact Brightfield"
+        ],
+        "links": [
+          "https://before.brightfield.example/",
+          "https://before.brightfield.example/about/",
+          "https://before.brightfield.example/contact/",
+          "https://before.brightfield.example/old-services/",
+          "https://before.brightfield.example/retired/",
+          "https://before.brightfield.example/lost/",
+          "https://before.brightfield.example/chain/",
+          "https://before.brightfield.example/loop/"
+        ],
+        "images": [
+          "https://before.brightfield.example/image.svg"
+        ],
+        "phones": [
+          "+442080641002"
+        ],
+        "emails": [
+          "hello@brightfield.example"
+        ],
+        "forms": [
+          {
+            "method": "POST",
+            "action": "https://fixture.brightfield.example/never-submit",
+            "fields": [
+              {
+                "name": "email",
+                "type": "email",
+                "labelled": true,
+                "required": true
+              },
+              {
+                "name": "message",
+                "type": "textarea",
+                "labelled": true,
+                "required": false
+              }
+            ],
+            "hasEmail": true,
+            "hasMessage": true
+          }
+        ],
+        "wordCount": 208,
+        "text": "Contact BrightfieldA considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. //about//contact//old-services//retired//lost//chain//loop/EmailYour projectSend enquiryCallEmail"
+      }
+    },
+    {
+      "route": "/old-services/",
+      "url": "https://before.brightfield.example/old-services/",
+      "status": 200,
+      "finalURL": "https://before.brightfield.example/old-services/",
+      "redirects": [],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [
+          "Our services"
+        ],
+        "descriptions": [
+          "A useful page about the Brightfield Studio website."
+        ],
+        "canonicals": [
+          "https://before.brightfield.example/old-services/"
+        ],
+        "robots": [],
+        "h1": [
+          "Our services"
+        ],
+        "links": [
+          "https://before.brightfield.example/",
+          "https://before.brightfield.example/about/",
+          "https://before.brightfield.example/contact/",
+          "https://before.brightfield.example/old-services/",
+          "https://before.brightfield.example/retired/",
+          "https://before.brightfield.example/lost/",
+          "https://before.brightfield.example/chain/",
+          "https://before.brightfield.example/loop/"
+        ],
+        "images": [
+          "https://before.brightfield.example/image.svg"
+        ],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 206,
+        "text": "Our servicesA considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. //about//contact//old-services//retired//lost//chain//loop/"
+      }
+    },
+    {
+      "route": "/retired/",
+      "url": "https://before.brightfield.example/retired/",
+      "status": 200,
+      "finalURL": "https://before.brightfield.example/retired/",
+      "redirects": [],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [
+          "About the studio"
+        ],
+        "descriptions": [
+          "A useful page about the Brightfield Studio website."
+        ],
+        "canonicals": [
+          "https://before.brightfield.example/retired/"
+        ],
+        "robots": [],
+        "h1": [
+          "About the studio"
+        ],
+        "links": [
+          "https://before.brightfield.example/",
+          "https://before.brightfield.example/about/",
+          "https://before.brightfield.example/contact/",
+          "https://before.brightfield.example/old-services/",
+          "https://before.brightfield.example/retired/",
+          "https://before.brightfield.example/lost/",
+          "https://before.brightfield.example/chain/",
+          "https://before.brightfield.example/loop/"
+        ],
+        "images": [
+          "https://before.brightfield.example/image.svg"
+        ],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 207,
+        "text": "About the studioA considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. //about//contact//old-services//retired//lost//chain//loop/"
+      }
+    },
+    {
+      "route": "/lost/",
+      "url": "https://before.brightfield.example/lost/",
+      "status": 200,
+      "finalURL": "https://before.brightfield.example/lost/",
+      "redirects": [],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [
+          "About the studio"
+        ],
+        "descriptions": [
+          "A useful page about the Brightfield Studio website."
+        ],
+        "canonicals": [
+          "https://before.brightfield.example/lost/"
+        ],
+        "robots": [],
+        "h1": [
+          "About the studio"
+        ],
+        "links": [
+          "https://before.brightfield.example/",
+          "https://before.brightfield.example/about/",
+          "https://before.brightfield.example/contact/",
+          "https://before.brightfield.example/old-services/",
+          "https://before.brightfield.example/retired/",
+          "https://before.brightfield.example/lost/",
+          "https://before.brightfield.example/chain/",
+          "https://before.brightfield.example/loop/"
+        ],
+        "images": [
+          "https://before.brightfield.example/image.svg"
+        ],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 207,
+        "text": "About the studioA considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. //about//contact//old-services//retired//lost//chain//loop/"
+      }
+    },
+    {
+      "route": "/chain/",
+      "url": "https://before.brightfield.example/chain/",
+      "status": 200,
+      "finalURL": "https://before.brightfield.example/chain/",
+      "redirects": [],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [
+          "About the studio"
+        ],
+        "descriptions": [
+          "A useful page about the Brightfield Studio website."
+        ],
+        "canonicals": [
+          "https://before.brightfield.example/chain/"
+        ],
+        "robots": [],
+        "h1": [
+          "About the studio"
+        ],
+        "links": [
+          "https://before.brightfield.example/",
+          "https://before.brightfield.example/about/",
+          "https://before.brightfield.example/contact/",
+          "https://before.brightfield.example/old-services/",
+          "https://before.brightfield.example/retired/",
+          "https://before.brightfield.example/lost/",
+          "https://before.brightfield.example/chain/",
+          "https://before.brightfield.example/loop/"
+        ],
+        "images": [
+          "https://before.brightfield.example/image.svg"
+        ],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 207,
+        "text": "About the studioA considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. //about//contact//old-services//retired//lost//chain//loop/"
+      }
+    },
+    {
+      "route": "/loop/",
+      "url": "https://before.brightfield.example/loop/",
+      "status": 200,
+      "finalURL": "https://before.brightfield.example/loop/",
+      "redirects": [],
+      "contentType": "text/html",
+      "headerRobots": "",
+      "data": {
+        "titles": [
+          "About the studio"
+        ],
+        "descriptions": [
+          "A useful page about the Brightfield Studio website."
+        ],
+        "canonicals": [
+          "https://before.brightfield.example/loop/"
+        ],
+        "robots": [],
+        "h1": [
+          "About the studio"
+        ],
+        "links": [
+          "https://before.brightfield.example/",
+          "https://before.brightfield.example/about/",
+          "https://before.brightfield.example/contact/",
+          "https://before.brightfield.example/old-services/",
+          "https://before.brightfield.example/retired/",
+          "https://before.brightfield.example/lost/",
+          "https://before.brightfield.example/chain/",
+          "https://before.brightfield.example/loop/"
+        ],
+        "images": [
+          "https://before.brightfield.example/image.svg"
+        ],
+        "phones": [],
+        "emails": [],
+        "forms": [],
+        "wordCount": 207,
+        "text": "About the studioA considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. A considered website gives visitors useful information, clear choices and an easy way to contact the business. //about//contact//old-services//retired//lost//chain//loop/"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://before.brightfield.example/image.svg",
+      "status": 200,
+      "finalURL": "https://before.brightfield.example/image.svg",
+      "contentType": "image/svg+xml"
+    }
+  ],
+  "coverage": {
+    "maxPages": 30,
+    "maxAssets": 40,
+    "requests": 13,
+    "pageLimitReached": false,
+    "assetLimitReached": false,
+    "robotsChecked": true,
+    "sitemapsChecked": 3,
+    "skipped": [
+      {
+        "route": "/blocked/",
+        "reason": "robots.txt restriction"
+      }
+    ],
+    "warnings": []
+  }
+}
