@@ -52,7 +52,7 @@ node bin/guard.js compare \
 
 Open `reports/redesign.html` in your browser. It is self-contained, printable, has no trackers, and makes no network requests. Reports are ignored by Git by default.
 
-You can also upload the two snapshot files to the [demo](https://essexwebsitebuilders.co.uk/tools/website-redesign-guard/). Comparison happens locally in your browser; the files are not uploaded.
+You can also open the two snapshot files in the [demo](https://essexwebsitebuilders.co.uk/tools/website-redesign-guard/). Comparison happens locally in your browser; the files are not uploaded.
 
 ### Try a fictional example without scanning a website
 
